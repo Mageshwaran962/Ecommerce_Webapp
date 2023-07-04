@@ -55,3 +55,9 @@ const recentProductAttributes = {
   createdAt: Date,
   updatedAt: Date,
 };
+
+// type Query {
+//   getProduct(id: ID!): Product
+//   getProductsByCategory(category: String!): [Product]
+//   getAllProducts: [Product]
+// }
